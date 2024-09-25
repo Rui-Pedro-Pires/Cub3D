@@ -6,6 +6,11 @@
 
 In this project, I learned a lot about working with the miniLibX library, handling graphical windows, events, and manipulating colors and textures in C.
 
+---
+
+<img src="https://github.com/Rui-Pedro-Pires/Cub3D/blob/main/Screenshot%20from%202024-09-25%2013-19-20.png">
+
+---
 ## Features
 - First-person 3D perspective inside a maze.
 - Wall textures that change based on direction (North, South, East, West).
