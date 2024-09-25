@@ -59,7 +59,7 @@ To install and run the project, follow these steps:
 
 1. Clone my repository:
    ```bash
-   git clone --recursive git@github.com:Rui-Pedro-Pires/Cub3D.git
+   git clone --recursive-submodule git@github.com:Rui-Pedro-Pires/Cub3D.git
    ```
 2. Move to the project directory:
    ```bash
